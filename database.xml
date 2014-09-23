@@ -1,0 +1,592 @@
+<legendary>
+	<expansions>
+		<expansion>
+			<name>Marvel Legendary</name>
+			<code>ML</code>
+			<included>yes</included>
+		</expansion>
+		<expansion>
+			<name>Fantastic Four</name>
+			<code>FF</code>
+			<included>no</included>
+		</expansion>
+		<expansion>
+			<name>Dark City</name>
+			<code>DC</code>
+			<included>no</included>
+		</expansion>
+		<expansion>
+			<name>Paint the Town Red</name>
+			<code>PTR</code>
+			<included>yes</included>
+		</expansion>
+	</expansions>
+	<allignments>
+		<allignment>
+			<name>Avengers Alliance</name>
+			<code>AA</code>
+		</allignment>
+		<allignment>
+			<name>X-Men</name>
+			<code>XM</code>
+		</allignment>
+		<allignment>
+			<name>Unalligned</name>
+			<code>UA</code>
+		</allignment>
+		<allignment>
+			<name>Spider Friends</name>
+			<code>SF</code>
+		</allignment>
+		<allignment>
+			<name>Shield</name>
+			<code>SH</code>
+		</allignment>
+		<allignment>
+			<name>Fantastic Four</name>
+			<code>FF</code>
+		</allignment>
+		<allignment>
+			<name>Marvel Knights</name>
+			<code>MK</code>
+		</allignment>
+		<allignment>
+			<name>X-Force</name>
+			<code>XF</code>
+		</allignment>
+	</allignments>
+	<heroes>
+		<hero>
+			<name>Black Widow</name>
+			<allignment>AA</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Captain America</name>
+			<allignment>AA</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Cyclops</name>
+			<allignment>XM</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Deadpool</name>
+			<allignment>UA</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Emma Frost</name>
+			<allignment>XM</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Gambit</name>
+			<allignment>XM</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Hawkeye</name>
+			<allignment>AA</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Hulk</name>
+			<allignment>AA</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Iron Man</name>
+			<allignment>AA</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Nick Fury</name>
+			<allignment>SH</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Rogue</name>
+			<allignment>XM</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Spider-Man</name>
+			<allignment>SF</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Storm</name>
+			<allignment>XM</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Thor</name>
+			<allignment>AA</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Wolverine</name>
+			<allignment>XM</allignment>
+			<expansion>ML</expansion>
+		</hero>
+		<hero>
+			<name>Mr Fantastic</name>
+			<allignment>FF</allignment>
+			<expansion>FF</expansion>
+		</hero>
+		<hero>
+			<name>Invisible Woman</name>
+			<allignment>FF</allignment>
+			<expansion>FF</expansion>
+		</hero>
+		<hero>
+			<name>Thing</name>
+			<allignment>FF</allignment>
+			<expansion>FF</expansion>
+		</hero>
+		<hero>
+			<name>Human Torch</name>
+			<allignment>FF</allignment>
+			<expansion>FF</expansion>
+		</hero>
+		<hero>
+			<name>Silver Surfer</name>
+			<allignment>UA</allignment>
+			<expansion>FF</expansion>
+		</hero>
+		<hero>
+			<name>Black Cat</name>
+			<allignment>SF</allignment>
+			<expansion>PTR</expansion>
+		</hero>
+		<hero>
+			<name>Moon Knight</name>
+			<allignment>MK</allignment>
+			<expansion>PTR</expansion>
+		</hero>
+		<hero>
+			<name>Scarlet Spider</name>
+			<allignment>SF</allignment>
+			<expansion>PTR</expansion>
+		</hero>
+		<hero>
+			<name>Spider-Woman</name>
+			<allignment>SF</allignment>
+			<expansion>PTR</expansion>
+		</hero>
+		<hero>
+			<name>Symbiote Spider-Man</name>
+			<allignment>SF</allignment>
+			<expansion>PTR</expansion>
+		</hero>
+		<hero>
+			<name>Angel</name>
+			<allignment></allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Bishop</name>
+			<allignment></allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Blade</name>
+			<allignment></allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Cable</name>
+			<allignment>XF</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Colossus</name>
+			<allignment></allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Daredevil</name>
+			<allignment>MK</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Domino</name>
+			<allignment>XF</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Elektra</name>
+			<allignment>MK</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Forge</name>
+			<allignment>XF</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Ghost Rider</name>
+			<allignment>MK</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Iceman</name>
+			<allignment></allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Iron Fist</name>
+			<allignment></allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Jean Grey</name>
+			<allignment>XM</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Nightcrawler</name>
+			<allignment>XM</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Professor X</name>
+			<allignment>XM</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>The Punisher</name>
+			<allignment>MK</allignment>
+			<expansion>DC</expansion>
+		</hero>
+		<hero>
+			<name>Wolverine</name>
+			<allignment>XF</allignment>
+			<expansion>DC</expansion>
+		</hero>
+	</heroes>
+	<masterminds>
+		<mastermind>
+			<name>Dr. Doom</name>
+			<alwaysleads>Doombot Legion</alwaysleads>
+			<special></special>
+			<expansion>ML</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Loki</name>
+			<alwaysleads>Enemies of Asgard</alwaysleads>
+			<special></special>
+			<expansion>ML</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Megneto</name>
+			<alwaysleads>Brotherhood</alwaysleads>
+			<special></special>
+			<expansion>ML</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Red Skull</name>
+			<alwaysleads>Hydra</alwaysleads>
+			<special></special>
+			<expansion>ML</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Galactus</name>
+			<alwaysleads>Heralds of Galactus</alwaysleads>
+			<special></special>
+			<expansion>FF</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Mole Man</name>
+			<alwaysleads>Subterranea</alwaysleads>
+			<special></special>
+			<expansion>FF</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Carnage</name>
+			<alwaysleads>Maximum Carnage</alwaysleads>
+			<special></special>
+			<expansion>PTR</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Mysterio</name>
+			<alwaysleads>Sinister Six</alwaysleads>
+			<special></special>
+			<expansion>PTR</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Apocalypse</name>
+			<alwaysleads>Four Horsemen</alwaysleads>
+			<special></special>
+			<expansion>DC</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Kingpin</name>
+			<alwaysleads>Streets of New York</alwaysleads>
+			<special></special>
+			<expansion>DC</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Mephisto</name>
+			<alwaysleads>Underworld</alwaysleads>
+			<special></special>
+			<expansion>DC</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Mr. Sinister</name>
+			<alwaysleads>Marauders</alwaysleads>
+			<special></special>
+			<expansion>DC</expansion>
+		</mastermind>
+		<mastermind>
+			<name>Stryfe</name>
+			<alwaysleads>MLF</alwaysleads>
+			<special></special>
+			<expansion>DC</expansion>
+		</mastermind>
+	</masterminds>
+	<henchmengroups>
+		<henchmen>
+			<name>Doombot Legion</name>
+			<expansion>ML</expansion>
+		</henchmen>
+		<henchmen>
+			<name>Hand Ninjas</name>
+			<expansion>ML</expansion>
+		</henchmen>
+		<henchmen>
+			<name>Savage Land Mutants</name>
+			<expansion>ML</expansion>
+		</henchmen>
+		<henchmen>
+			<name>Sentinels</name>
+			<expansion>ML</expansion>
+		</henchmen>
+		<henchmen>
+			<name>Maggia Goons</name>
+			<expansion>DC</expansion>
+		</henchmen>
+		<henchmen>
+			<name>Phalanx</name>
+			<expansion>DC</expansion>
+		</henchmen>
+	</henchmengroups>
+	<villians>
+		<villain>
+			<name>Brotherhood</name>
+			<expansion>ML</expansion>
+		</villain>
+		<villain>
+			<name>Enemies of Asgard</name>
+			<expansion>ML</expansion>
+		</villain>
+		<villain>
+			<name>Hydra</name>
+			<expansion>ML</expansion>
+		</villain>
+		<villain>
+			<name>Masters of Evil</name>
+			<expansion>ML</expansion>
+		</villain>
+		<villain>
+			<name>Radiation</name>
+			<expansion>ML</expansion>
+		</villain>
+		<villain>
+			<name>Skrulls</name>
+			<expansion>ML</expansion>
+		</villain>
+		<villain>
+			<name>Spider Foes</name>
+			<expansion>ML</expansion>
+		</villain>
+		<villain>
+			<name>Subterranea</name>
+			<expansion>FF</expansion>
+		</villain>
+		<villain>
+			<name>Heralds of Galactus</name>
+			<expansion>FF</expansion>
+		</villain>
+		<villain>
+			<name>Maximum Carnage</name>
+			<expansion>PTR</expansion>
+		</villain>
+		<villain>
+			<name>Sinister Six</name>
+			<expansion>PTR</expansion>
+		</villain>
+		<villain>
+			<name>Emissaries of Evil</name>
+			<expansion>DC</expansion>
+		</villain>
+		<villain>
+			<name>Four Horsemen</name>
+			<expansion>DC</expansion>
+		</villain>
+		<villain>
+			<name>Marauders</name>
+			<expansion>DC</expansion>
+		</villain>
+		<villain>
+			<name>MLF</name>
+			<expansion>DC</expansion>
+		</villain>
+		<villain>
+			<name>Streets of New York</name>
+			<expansion>DC</expansion>
+		</villain>
+		<villain>
+			<name>Underworld</name>
+			<expansion>DC</expansion>
+		</villain>
+	</villains>
+	<schemes>
+		<scheme>
+			<name>The Legacy Virus</name>
+			<expansion>ML</expansion>
+			<twists>8</twists>
+			<special>Wound stack holds 6 wounds per player</special>
+		</scheme>
+		<scheme>
+			<name>Midtown Bank Robbery</name>
+			<expansion>ML</expansion>
+			<twists>8</twists>
+			<special>12 Bystanders in the villain deck</special>
+		</scheme>
+		<scheme>
+			<name>Negative Zone Prison Breakout</name>
+			<expansion>ML</expansion>
+			<twists>8</twists>
+			<special>Add an extra henchmen group</special>
+		</scheme>
+		<scheme>
+			<name>Portals to the Dark Dimension</name>
+			<expansion>ML</expansion>
+			<twists>7</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Replace the Earth's Leaders with Killbots</name>
+			<expansion>ML</expansion>
+			<twists>5</twists>
+			<special>3 additional twists next to scheme. 18 bystanders in the villain deck</special>
+		</scheme>
+		<scheme>
+			<name>Secret Invasion of the Skrull Shapeshifters</name>
+			<expansion>ML</expansion>
+			<twists>8</twists>
+			<special>6 heroes. Skrull villain group required. Shuffle 12 random heroes from the hero deck into the villain deck</special>
+		</scheme>
+		<scheme>
+			<name>Super Hero Civil War</name>
+			<expansion>ML</expansion>
+			<twists>0</twists>
+			<special>For 2-3 players use 8 twists, 4-5 players use 5 twists. If only 2 players use only 4 heroes</special>
+		</scheme>
+		<scheme>
+			<name>Unleash the Power of the Cosmic Cube</name>
+			<expansion>ML</expansion>
+			<twists>8</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Bathe Earth in Cosmic Rays</name>
+			<expansion>FF</expansion>
+			<twists>6</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Flood the Planet with Melted Glaciers</name>
+			<expansion>FF</expansion>
+			<twists>8</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Invisible Force Field</name>
+			<expansion>FF</expansion>
+			<twists>7</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Pull Reality into the Negative Zone</name>
+			<expansion>FF</expansion>
+			<twists>8</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Invade the Daily Bugle News HQ</name>
+			<expansion>PTR</expansion>
+			<twists>8</twists>
+			<special>Add 6 extra henchmen from a single henchmen group to the hero deck</special>
+		</scheme>
+		<scheme>
+			<name>Splice Humans with Spider DNA</name>
+			<expansion>PTR</expansion>
+			<twists>8</twists>
+			<special>Include Sinister Six as one of the villian groups</special>
+		</scheme>
+		<scheme>
+			<name>The Clone Saga</name>
+			<expansion>PTR</expansion>
+			<twists>8</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Weave a Web of Lies</name>
+			<expansion>PTR</expansion>
+			<twists>7</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Capture Baby Hope</name>
+			<expansion>DC</expansion>
+			<twists>8</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Detonate the Helicarrier</name>
+			<expansion>DC</expansion>
+			<twists>8</twists>
+			<special>6 heroes in the hero deck</special>
+		</scheme>
+		<scheme>
+			<name>Massive Earthquake Generator</name>
+			<expansion>DC</expansion>
+			<twists>8</twists>
+			<special></special>
+		</scheme>
+		<scheme>
+			<name>Organized Crimewave</name>
+			<expansion>DC</expansion>
+			<twists>8</twists>
+			<special>Include Maggia Goons as one of the henchmen groups</special>
+		</scheme>
+		<scheme>
+			<name>Save Humanity</name>
+			<expansion>DC</expansion>
+			<twists>8</twists>
+			<special>24 bystanders in the hero deck (1 player: 12 bystanders)</special>
+		</scheme>
+		<scheme>
+			<name>Steal the Weaponized Plutonium</name>
+			<expansion>DC</expansion>
+			<twists>8</twists>
+			<special>Add an extra villian group</special>
+		</scheme>
+		<scheme>
+			<name>Transform Citizens into Demons</name>
+			<expansion>DC</expansion>
+			<twists>8</twists>
+			<special>Villian deck includes 14 extra Jean Grey cards and no bystanders</special>
+		</scheme>
+		<scheme>
+			<name>X-Cutioner's Song</name>
+			<expansion>DC</expansion>
+			<twists>8</twists>
+			<special>Villian deck includes 14 cards for an extra hero and no bystanders</special>
+		</scheme>
+	</schemes>
+</legendary>
